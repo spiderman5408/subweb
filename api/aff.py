@@ -1,5 +1,5 @@
 #全局变量定义
-subip = 'http://hd.clash008.top'      # 默认subip是 subconverter 后台端口，在config/perf.ini 中指定，或者docker的端口指定。
+subip = 'https://hd.clash008.top'      # 默认subip是 subconverter 后台端口，在config/perf.ini 中指定，或者docker的端口指定。
 apiip = 'https://ss.clash008.top'      #apiip 是 suweb 前端端口
 passwd = '17733906174a.'                      #passwd 是 admin系统的密码
 #proxygroup  用于节点分组，当您修改pref.ini的 [ruleset] 需要改变以下默认值以一一对应，否则会导致节点分组报错。
